@@ -18,7 +18,6 @@ DURATION : 6 WEEKS
 MENTOR : NEELA SANTOSH
 
 
-This project presents a comprehensive implementation of a 4-stage pipelined RISC-V processor designed primarily for educational purposes and FPGA deployment using Xilinx Vivado 2023.3.
 
 **Overview**
 
